@@ -11,6 +11,8 @@ namespace StackAndQueueProblems
             queue.Enqueue(30);
             queue.Enqueue(70);
 
+            queue.Dequeue();
+
 
            /* Stack stack = new Stack();
             stack.Push(56);
